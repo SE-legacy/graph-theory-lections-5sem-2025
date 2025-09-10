@@ -23,6 +23,7 @@ authors = [
 numbering = true
 prefix = "Вопрос"
 sections = [
-  "Жить или не жить?"
+  "Лекция 1."
+  "Лекция 2."
 ]
 
