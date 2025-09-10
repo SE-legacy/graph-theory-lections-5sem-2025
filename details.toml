@@ -1,6 +1,6 @@
 subject = "Название предмета"
 description = "Лекции"
-term = 4 # номер семестра
+term = 5 # номер семестра
 authors = [
   "Егор Смирнов",
   "Артём Рудяк",
@@ -21,9 +21,9 @@ authors = [
 
 [sections]
 numbering = true
-prefix = "Вопрос"
+prefix = "Лекция"
 sections = [
-  "Лекция 1."
-  "Лекция 2."
+  "1.",
+  "2."
 ]
 
