@@ -1,2 +1,4 @@
 *.pdf
 .ethersync
+*.rnote
+sections/.editorconfig
