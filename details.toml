@@ -23,7 +23,14 @@ authors = [
 numbering = true
 prefix = "Лекция"
 sections = [
-  "1.",
-  "2."
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  "",
+  ""
 ]
 
