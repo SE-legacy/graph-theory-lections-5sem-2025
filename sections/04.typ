@@ -249,4 +249,3 @@ $d (x, y) = infinity$
 
 
 
-
